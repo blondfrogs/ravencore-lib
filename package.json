@@ -49,16 +49,14 @@
     "inherits": "=2.0.1",
     "lodash": "^3.10.1",
     "xmlhttprequest": "^1.8.0",
-    "node-x16rv2": "traysi/x16rv2_hash"
-  },
-  "optionalDependencies": {
-    "@ravendevkit/node-x16r": "^1.0.2"
+    "node-x16rv2": "traysi/x16rv2_hash",
+    "node-x16r": "blondfrogs/node-x16r"
   },
   "devDependencies": {
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.9.1",
-    "ravencore-build": "RavenDevKit/ravencore-build",
+    "ravencore-build": "blondfrogs/ravencore-build",
     "sinon": "^1.13.0",
     "watchify": "^3.11.0"
   },
