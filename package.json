@@ -41,6 +41,7 @@
     "request": "browser-request"
   },
   "dependencies": {
+<<<<<<< HEAD
     "bn.js": "=2.0.4",
     "browser-request": "^0.3.3",
     "bs58": "=2.0.0",
@@ -51,6 +52,16 @@
     "xmlhttprequest": "^1.8.0",
     "node-x16rv2": "traysi/x16rv2_hash",
     "node-x16r": "blondfrogs/node-x16r"
+=======
+    "bn.js": "2.0.4",
+    "bs58": "2.0.0",
+    "buffer-compare": "1.0.0",
+    "elliptic": "3.0.3",
+    "inherits": "2.0.1",
+    "lodash": "3.10.1",
+    "node-x16r": "underdarkskies/node-x16r",
+    "node-x16rv2": "traysi/x16rv2_hash"
+>>>>>>> 0833db7... static dependencies
   },
   "devDependencies": {
     "brfs": "^1.2.0",
